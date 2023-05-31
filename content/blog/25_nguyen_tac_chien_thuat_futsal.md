@@ -3,7 +3,7 @@ title: "25 Nguyên Tắc Cơ Bản Trong Chiến Thuật Futsal"
 date: 2023-05-31T10:15:31+07:00
 draft: true
 tags: ["chiến thuật"]
-series: ["chiến thuật"]
+series: ["chiếnthuật"]
 ---
 
 # 1. Mở biên: 
