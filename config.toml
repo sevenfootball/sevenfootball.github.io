@@ -1,5 +1,5 @@
 baseURL = "https://sevenfootball.github.io/"
-title = "LADDER"
+title = "7Football"
 theme = "ladder"
 license = "MIT"
 licenselink = "https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE"
