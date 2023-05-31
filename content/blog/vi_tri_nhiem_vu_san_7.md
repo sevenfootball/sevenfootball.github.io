@@ -34,4 +34,4 @@ series: ["ChienThuat"]
  # Tham khảo
  [https://thegioibongda.net/tong-hop-cac-cach-da-hau-ve-canh-san-7-hieu-qua-nhat-n91813.html](https://thegioibongda.net/tong-hop-cac-cach-da-hau-ve-canh-san-7-hieu-qua-nhat-n91813.html)\
  [http://bongdaphui.net/lam-the-nao-choi-tot-vi-tri-trung-ve-12261612.html](http://bongdaphui.net/lam-the-nao-choi-tot-vi-tri-trung-ve-12261612.html)\
- [https://thethaovip.com.vn/cach-da-tien-ve-trung-tam-san-7-nguoi-day-du-hieu-qua-nhat-n92153.html](https://thethaovip.com.vn/cach-da-tien-ve-trung-tam-san-7-nguoi-day-du-hieu-qua-nhat-n92153.html)
+ [https://thethaovip.com.vn/cach-da-tien-ve-trung-tam-san-7-nguoi-day-du-hieu-qua-nhat-n92153.html](https://thethaovip.com.vn/cach-da-tien-ve-trung-tam-san-7-nguoi-day-du-hieu-qua-nhat-n92153.html)  
