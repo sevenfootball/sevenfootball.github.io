@@ -7,4 +7,4 @@ series: ["ChienThuat"]
 
 Khi cướp được bóng có hai lựa chọn:
 1. Khi quân số ta đông hơn thì triển khai đợt tấn công.
-2. Khi ít quân số thì đưa bóng về phần sân nhà và phát triển lại đợt tấn công.
+2. Khi ít quân số thì đưa bóng về phần sân nhà và phát triển lại đợt tấn công. 
