@@ -16,10 +16,17 @@ series: ["ChienThuat"]
 - Phải giao tiếp tốt với đồng đội. Khi tấn công 1 ông lên thì 1 ông nên ở sân nhà kết hợp với trung vệ đề phòng đối thủ cướp được bóng và phản công.
 - Hai hậu vệ cánh không nên di chuyển qua đường màu hồng.
 
+Hãy tham khảo video này
+{{< youtube xIsWRzSP7OQ >}}
 ## Trung vệ
 - Vì anh ta là người đúng cuối cùng nên có tầm quan sát tốt. Anh ta là người hô hào và đưa ra hướng dẫn cho các đồng đội.
 - Kỷ luật để không bao giờ quên nhiệm vụ của mình là phòng ngự.
 
+Hãy tham khảo video này 
+{{< youtube -miA7-1eDjo >}}
+{{< youtube aXe5mlGgxJs >}}
+{{< youtube EbpsUbKf0dc >}}
+{{< youtube wgS47NK3C1g >}}
 ## Tiền vệ
 - Chuyền bóng chính xác: Vì trong một trận đấu phải thực hiện rất nhiều đường chuyền.
 - Kỹ thuật kiểm soát bóng: Ở khu vực giữa sân là nơi tập trung nhiều cầu thủ nhất nên cần kiểm soát bóng để tránh bị đối phương cướp bóng và bị một pha phản công nguy hiểm.
@@ -27,11 +34,22 @@ series: ["ChienThuat"]
 - Kỹ thuật dứt điểm: Với những cú shoot xa.
 - Tư duy chiến thuật: Tiền vệ là người chia bài của cả đội nên anh ta phải hiểu rõ về chiến thuật.
 
+Hãy tham khảo video này bạn sẽ tiến bộ 
+
+{{< youtube tmCW6kHiuL0 >}}
+
 ## Tiền đạo
 - Di chuyển không bóng để tạo khoảng trống cho tiền vệ hoặc cánh dâng lên.
 - Dứt điểm tốt.
 - Tì đè.
- # Tham khảo
- [https://thegioibongda.net/tong-hop-cac-cach-da-hau-ve-canh-san-7-hieu-qua-nhat-n91813.html](https://thegioibongda.net/tong-hop-cac-cach-da-hau-ve-canh-san-7-hieu-qua-nhat-n91813.html)\
- [http://bongdaphui.net/lam-the-nao-choi-tot-vi-tri-trung-ve-12261612.html](http://bongdaphui.net/lam-the-nao-choi-tot-vi-tri-trung-ve-12261612.html)\
- [https://thethaovip.com.vn/cach-da-tien-ve-trung-tam-san-7-nguoi-day-du-hieu-qua-nhat-n92153.html](https://thethaovip.com.vn/cach-da-tien-ve-trung-tam-san-7-nguoi-day-du-hieu-qua-nhat-n92153.html)  
+
+Hãy tham khảo 2 video này
+{{< youtube k7D9LkUvrw0 >}}
+{{< youtube JOLH7BkygUg >}}
+
+# Xem video này để chơi sân 7 tốt hơn
+{{< youtube n109ldfwY0c >}} 
+# Tham khảo
+[https://thegioibongda.net/tong-hop-cac-cach-da-hau-ve-canh-san-7-hieu-qua-nhat-n91813.html](https://thegioibongda.net/tong-hop-cac-cach-da-hau-ve-canh-san-7-hieu-qua-nhat-n91813.html)\
+[http://bongdaphui.net/lam-the-nao-choi-tot-vi-tri-trung-ve-12261612.html](http://bongdaphui.net/lam-the-nao-choi-tot-vi-tri-trung-ve-12261612.html)\
+[https://thethaovip.com.vn/cach-da-tien-ve-trung-tam-san-7-nguoi-day-du-hieu-qua-nhat-n92153.html](https://thethaovip.com.vn/cach-da-tien-ve-trung-tam-san-7-nguoi-day-du-hieu-qua-nhat-n92153.html)  
