@@ -27,6 +27,7 @@ Hãy tham khảo video này
 {{< youtube aXe5mlGgxJs >}}
 {{< youtube EbpsUbKf0dc >}}
 {{< youtube wgS47NK3C1g >}}
+{{< youtube IRmzdkCOx5U >}}
 ## Tiền vệ
 - Chuyền bóng chính xác: Vì trong một trận đấu phải thực hiện rất nhiều đường chuyền.
 - Kỹ thuật kiểm soát bóng: Ở khu vực giữa sân là nơi tập trung nhiều cầu thủ nhất nên cần kiểm soát bóng để tránh bị đối phương cướp bóng và bị một pha phản công nguy hiểm.
@@ -46,7 +47,7 @@ Hãy tham khảo video này bạn sẽ tiến bộ
 Hãy tham khảo 2 video này
 {{< youtube k7D9LkUvrw0 >}}
 {{< youtube JOLH7BkygUg >}}
-
+<!-- {{< youtube z8GUskWXxf8 >}} -->
 # Xem video này để chơi sân 7 tốt hơn
 {{< youtube n109ldfwY0c >}} 
 # Tham khảo
