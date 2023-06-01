@@ -5,6 +5,8 @@ tags: ["Sân 7", "Vị Trí"]
 series: ["ChienThuat"]
 ---
 
+Tổng hợp các bài tập để anh em cải thiện khả năng của mình.
+
 ## 1. Bài tập giúp tạo cảm giác bóng 
 {{< youtube OzIakUKIpf8 >}}
 {{< youtube -252rZPZuWA >}}
